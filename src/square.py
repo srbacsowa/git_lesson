@@ -1,12 +1,10 @@
 
-def my_square(x):
+def my_square(z):
     """
-        Return the square of the number x.
+        Return the square of the number z.
         Use the ** operator to square.
         Add another comment.
     """
-    return x * x
+    return z ** 2
 
-print(my_square(12))
-
-
+print(my_square(16))
