@@ -7,4 +7,11 @@ def my_square(z):
     """
     return z ** 2
 
+def my_cube(z):
+    """
+        Return the cube of a number
+    """
+    return z ** 3
+
 print(my_square(16))
+print(my_cube(5))
