@@ -10,6 +10,7 @@ def my_square(z):
 def my_cube(z):
     """
         Return the cube of a number
+        Add some more comments to the file.
     """
     return z ** 3
 
