@@ -5,6 +5,6 @@ def my_square(x):
     """
     return x * x
 
-print(my_square(3))
+print(my_square(4))
 
 
