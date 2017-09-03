@@ -2,8 +2,9 @@
 def my_square(x):
     """
         Return the square of the number x.
+        Use the ** operator to square.
     """
-    return x * x
+    return x ** 2
 
 print(my_square(3))
 
